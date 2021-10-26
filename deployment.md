@@ -1,4 +1,8 @@
-# Go server deploymnet 
+# Deployment process 
+
+## Frontend
+
+
 ## Backend
 
 - Create database
@@ -22,3 +26,5 @@
 - Start service
 - Test /api/check
 - Seed database
+
+
