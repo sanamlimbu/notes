@@ -28,6 +28,7 @@
 
 ## Useful commands
 
+```
 systemctl
 journalctl
 ls
@@ -39,7 +40,7 @@ cp
 scp
 rsync
 vim
-
+```
 ## Backend
 
 - Create database
