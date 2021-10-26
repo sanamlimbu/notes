@@ -6,11 +6,16 @@
 ## Backend
 
 - Create database
-    - CREATE DATABASE "boilerplate";
+```
+CREATE DATABASE "boilerplate";
+```
 - Create db user with password 
-    - CREATE USER "boilerplate" WITH PASSWORD 'draconian-notable-americangoldfinch';
+```
+CREATE USER "boilerplate" WITH PASSWORD 'draconian-notable-americangoldfinch';
+```
 - Assign DB to user
-    - ALTER DATABASE boilerplate OWNER TO boilerplate;`
+```ALTER DATABASE boilerplate OWNER TO boilerplate;
+```
 - Configure database for external TCP connections (if required)
     - sudo vim /etc/postgresql/10/main/pg_hba.conf
 - Initialise db extensions
