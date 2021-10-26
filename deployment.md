@@ -29,17 +29,17 @@
 ## Useful commands
 
 ```
--systemctl
--journalctl
--ls
--cat
--grep
--find
--locate
--cp
--scp
--rsync
--vim
+systemctl
+journalctl
+ls
+cat
+grep
+find
+locate
+cp
+scp
+rsync
+vim
 ```
 ## Backend
 
